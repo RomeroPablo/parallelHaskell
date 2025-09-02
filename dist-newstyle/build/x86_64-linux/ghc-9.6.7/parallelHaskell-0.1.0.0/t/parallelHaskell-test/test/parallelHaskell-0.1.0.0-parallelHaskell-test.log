@@ -1,0 +1,3 @@
+Test suite parallelHaskell-test: RUNNING...
+Test suite parallelHaskell-test: PASS
+Test suite logged to: /home/pablo/documents/haskell/parallelHaskell/dist-newstyle/build/x86_64-linux/ghc-9.6.7/parallelHaskell-0.1.0.0/t/parallelHaskell-test/test/parallelHaskell-0.1.0.0-parallelHaskell-test.log
